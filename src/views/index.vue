@@ -49,7 +49,7 @@
         </div>
       </div>
     </div>
-  <!-- <vue-canvas-nest></vue-canvas-nest>//鼠标磁吸 -->
+  <vue-canvas-nest></vue-canvas-nest>//鼠标磁吸
   </div>
 </template>
 
